@@ -16,7 +16,7 @@ CLI usage:
     $ thom compare 2301.00001 2301.00002
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "thom contributors"
 
 from .arxiv import (
