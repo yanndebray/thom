@@ -33,3 +33,6 @@ Thumbs.db
 
 # Claude specific
 .claude/
+
+# Project specific
+.env
